@@ -19,13 +19,6 @@ what are you still doing here?
 
 ---
 
-![Frameworks & Libraries](https://img.shields.io/badge/Frameworks%20%26%20Libraries-009688?style=for-the-badge&logo=react&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Phaser](https://img.shields.io/badge/Phaser-20232A?style=flat-square&logo=phaser&logoColor=lightblue)
-
----
-
 ![Databases](https://img.shields.io/badge/Databases-7952B3?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
