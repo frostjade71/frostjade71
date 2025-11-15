@@ -1,37 +1,45 @@
-# 👋 Hi there, I'm Frost
-what are you still doing here?
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Frost</h1>
+<h3 align="center">breadaholic🍞</h3>
 
----
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=frostjade71">
+    <img src="https://komarev.com/ghpvc/?username=frostjade71&label=Profile%20views&color=00FFFF&style=flat-square" alt="frostjade71's profile views" />
+  </a>
+</p>
 
-![Socials](https://img.shields.io/badge/SOCIALS-blueviolet?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaderby-pe%C3%B1aranda-830670359/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frostjade71)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frostjade71&show_icons=true&theme=prussian&hide_border=true&count_private=true&cache_seconds=86400" alt="frostjade71's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=frostjade71&theme=prussian&hide_border=true&cache_seconds=86400" alt="frostjade71's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=frostjade71&theme=prussian&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Frost's GitHub Trophies" />
+</p>
 
----
 
-![Languages & Markup](https://img.shields.io/badge/Languages%20%26%20Markup-ff9800?style=for-the-badge&logo=fontawesome&logoColor=white)
+## 🛠️ Languages & Tools
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
 
----
+### Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
 
-![Databases](https://img.shields.io/badge/Databases-7952B3?style=for-the-badge&logo=mysql&logoColor=white)
+### Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostjade71&layout=compact&theme=prussian&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
 
----
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/jaderby-pe%C3%B1aranda-830670359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-gray?style=for-the-badge&logo=githubactions&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frostjade71&show_icons=true&count_private=true)
-
----
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-blue?style=for-the-badge&logo=github&logoColor=white)
-
-![Profile Views](https://komarev.com/ghpvc/?username=frostjade71)
