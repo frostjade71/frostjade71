@@ -1,5 +1,4 @@
 # <img src="./f_icon.png" width="30"/> Frost.
-<img src="https://img.shields.io/badge/Senior%20College%20Student-black?style=for-the-badge&logo=googlescholar&logoColor=white" />
 <a href="https://jaderbypenaranda.vercel.app/"><img src="https://img.shields.io/badge/Jaderby%20Peñaranda-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <br />
 
@@ -13,22 +12,18 @@ A fourth-year Computer Science student at Holy Cross College of Carigara Incorpo
 <a href="https://www.linkedin.com/in/jaderby-pe%C3%B1aranda-830670359">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://web.facebook.com/jaderby.penaranda7">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=frostjade71&label=Profile%20views&color=0077B5&style=for-the-badge" alt="frostjade71's profile views" />
 <br />
 <br />
 
-## Tech Stack
+## Languages and Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,nodejs,nextjs,tailwind,python,mysql,mongodb,docker" />
-</a>
-<br />
-
-### Tools
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,nodejs,python,mysql,postgres,mongodb,supabase,git,vscode,docker,vercel" />
 </a>
 <br />
 <br />
