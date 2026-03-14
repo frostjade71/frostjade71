@@ -2,7 +2,7 @@
 <a href="https://jaderbypenaranda.vercel.app/"><img src="https://img.shields.io/badge/Jaderby%20Peñaranda-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <br />
 
-Hello👋, I'm Jaderby! I build full-stack web applicationn with PHP and I'm on my way to mastering TypeScript next.
+Hello👋, I'm Jaderby! I build full-stack web application with PHP and I'm on my way to mastering TypeScript next.
 
 
 <!-- Socials -->
