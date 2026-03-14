@@ -12,7 +12,11 @@ Hello👋, I'm Jaderby! I build full-stack web applicationn with PHP and I'm on 
 <a href="https://www.linkedin.com/in/jaderby-pe%C3%B1aranda-830670359">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<<<<<<< HEAD
 <a href="https://www.facebook.com/jaderby.penaranda7/">
+=======
+<a href="https://web.facebook.com/jaderby.penaranda7">
+>>>>>>> 6530aa686e7e151011eaaa382a5aecfc7308a3d6
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
@@ -20,10 +24,14 @@ Hello👋, I'm Jaderby! I build full-stack web applicationn with PHP and I'm on 
 <br />
 <br />
 
-## Tech Stack
+## Languages and Tools
 
 <a href="https://skillicons.dev">
+<<<<<<< HEAD
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,php,nodejs,python,mysql,postgres,supabase,git,vscode,docker,vercel" />
+=======
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,nodejs,python,mysql,postgres,mongodb,supabase,git,vscode,docker,vercel" />
+>>>>>>> 6530aa686e7e151011eaaa382a5aecfc7308a3d6
 </a>
 <br />
 <br />
