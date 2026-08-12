@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img width="620" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=1100&color=FFFFFF&center=false&vCenter=true&width=620&lines=Hi there%2C+I%27m+Jaderby.;Computer+Science+Graduate.;Full-stack+Web+Developer.;Building+with+PHP%2C+TypeScript+%26+React.;Layout+Design+%26+Video+Editing." alt="Hey, I'm Jaderby — Full-stack Web Developer" />
+    <img width="620" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=1100&color=FFFFFF&center=false&vCenter=true&width=620&lines=Hi+there%2C+I%27m+Jaderby.;Computer+Science+Graduate.;Full-stack+Web+Developer.;Building+with+PHP%2C+TypeScript+%26+React.;Layout+Design+%26+Video+Editing." alt="Hey, I'm Jaderby — Full-stack Web Developer" />
   </a>
   <br>
   <a href="https://github.com/frostjade71"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a><a href="https://www.linkedin.com/in/jaderby-pe%C3%B1aranda-830670359"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a><a href="https://jaderbypenaranda.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-334155?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Jaderby Peñaranda portfolio"></a>
@@ -30,7 +30,7 @@ I'm **Jaderby Peñaranda**, a Computer Science graduate from Holy Cross College 
 
 ## ★ Featured Projects
 
-### [Realm Explorer](https://github.com/frostjade71/RealmExplorer)
+### [Realm Explorer](https://www.realmexplorer.xyz/)
 
 A Minecraft Server & Realm discovery platform that helps players find their next adventure. Browse, search, filter, and shuffle through community servers and realms with ease.
 
